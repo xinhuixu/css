@@ -1,0 +1,30 @@
+body {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: beige;
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: gray;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+h2, h3 {
+    font-size: 2em;
+}
+
+ul {
+    border: 0.25em double grey;
+    padding: 1em;
+    padding-left: 2em;
+}
+

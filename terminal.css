@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: Consolas, monaco, monospace;
+}
+
+a {
+    color: lime;
+    font-style: italic;
+}
+
+p {
+    border: 0.0125em dashed lime;
+    padding: 1em;
+}
+
+h1 {
+    border: 0.025em solid lime;
+    padding: 1em;
+}
+
+h2, h3 {
+    font-size: 1.25em;
+    text-decoration: underline;
+}
+
+ 
