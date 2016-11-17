@@ -9,8 +9,22 @@ body {
 a {
     font-style: italic;
     text-decoration: none;
-    color: gray;
     font-size: 1.5em;
+    color:black;
+}
+
+.extreme{
+    border: 3px solid gray;
+}
+
+#head1{
+    background-color: gray;
+    margin: 5%;
+    padding: 5%;
+}
+
+#tehlulz {
+    background-color: gray;
 }
 
 h1 {
@@ -24,7 +38,6 @@ h2, h3 {
 
 ul {
     border: 0.25em double grey;
-    padding: 1em;
-    padding-left: 2em;
+    padding: 5%
 }
 
