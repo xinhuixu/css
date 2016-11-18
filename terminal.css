@@ -24,4 +24,17 @@ h2, h3 {
     text-decoration: underline;
 }
 
- 
+.extreme{
+    border: 3px solid lime;
+}
+
+#head1{
+    background-color: white;
+    margin: 5%;
+    padding: 5%;
+}
+
+#tehlulz {
+    background-color: white;
+}
+
